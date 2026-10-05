@@ -1,0 +1,6 @@
+{
+  "name": "ShopNest - Modern Marketplace & E-Commerce Store",
+  "description": "A comprehensive, high-performance marketplace e-commerce app with rich product catalogs, fast filtering, cart & checkout, order tracking, and seller management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
